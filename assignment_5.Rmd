@@ -41,6 +41,7 @@ housing_new %>%
 #Answer: write your response here: 153.
 
 
+
 # **1.2 Generate a tibble/dataframe that summarizes the mean land value of each region at each time point and show its first 6 lines.**
 
 ```{r}
